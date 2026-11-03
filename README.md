@@ -2,9 +2,6 @@
 
 Aplikasi mobile untuk mengelola daftar todo dengan **React Native**, **Expo SDK 58**, **Expo Router**, dan **Cloud Firestore**. Perubahan pada daftar disinkronkan secara real time.
 
-## Anggota
-
-- Ardiyanti Daffa Maisan — NPM 41155050240022
 
 ## Fitur
 
@@ -83,3 +80,12 @@ src/types/           Tipe data todo
 ```
 
 Sumber materi: PDF **TodoApp: Sample CRUD React-Native Expo and Firebase** yang diberikan untuk tugas.
+
+#IMAGE RESULT
+
+-<img width="739" height="1600" alt="WhatsApp Image 2026-11-03 at 17 39 02" src="https://github.com/user-attachments/assets/586e042d-d66c-4fd0-a358-a0980c6022db" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-03 at 17 39 02 (1)" src="https://github.com/user-attachments/assets/307b7ae1-77bc-44fa-b89f-cafade2cd64e" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-03 at 17 39 02 (2)" src="https://github.com/user-attachments/assets/ed7be9e0-5a7c-49fd-93c2-52bb68fec63d" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-03 at 17 39 03" src="https://github.com/user-attachments/assets/e6101e8b-e7ba-4077-aacc-3c4b70c981cc" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-03 at 17 39 03 (1)" src="https://github.com/user-attachments/assets/dfc2183a-0976-452a-8c24-c0e56c7b6478" />
+<img width="1600" height="691" alt="WhatsApp Image 2026-11-03 at 17 39 49" src="https://github.com/user-attachments/assets/d6fcb8a4-aa38-483e-a271-c85af941aaf3" />
